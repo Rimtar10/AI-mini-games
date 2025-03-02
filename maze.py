@@ -15,6 +15,7 @@ class MazeGame:
         self.screen_width = root.winfo_screenwidth()
         self.screen_height = root.winfo_screenheight()
         
+        
         # Game settings
         self.cell_size = 30
         self.difficulty_settings = {

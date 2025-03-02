@@ -31,7 +31,8 @@ class GameSelectionApp:
         games = [
             ("Tic Tac Toe", "tictactoe.py", "#3498db"),
             ("Chess", "chess.py", "#2ecc71"),
-            ("Maze", "maze.py", "#e74c3c")
+            ("Maze", "maze.py", "#e74c3c"),
+            ("Maps", "map.py", "#f39c12")
         ]
         
         self.buttons = []
