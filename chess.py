@@ -925,7 +925,6 @@ class ChessGame:
         else:
             messagebox.showinfo("Player's Turn", "It's your turn (White). AI plays as Black.")
 
-# Main function to run the game
 def main():
     root = tk.Tk()
     game = ChessGame(root)
